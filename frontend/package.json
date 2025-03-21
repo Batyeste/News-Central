@@ -14,7 +14,7 @@
     "@mui/material": "^6.4.6",
     "@tailwindcss/postcss": "^4.0.9",
     "@tailwindcss/vite": "^4.0.15",
-    "axios": "^1.8.1",
+    "axios": "^1.8.2",
     "lucide-react": "^0.476.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
